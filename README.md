@@ -1,7 +1,7 @@
 
 # 1.  Quora Question Pair Similarity 
 
-## 1.1Problem Statement :
+## 1.1 Problem Statement :
 Identifying Given pair of questions are Duplicates or not (Similar or not) to provide instant answers 
 
 ##### Business objectives and Constraints:
